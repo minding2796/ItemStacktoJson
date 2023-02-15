@@ -1,0 +1,5 @@
+name: ItemJsonhoverEvent
+version: '${project.version}'
+main: org.item.ItemJsonhoverEvent
+api-version: 1.19
+authors: [ minding2796 ]
