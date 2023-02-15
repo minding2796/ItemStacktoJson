@@ -1,5 +1,0 @@
-name: ItemJsonhoverEvent
-version: '1.0-SNAPSHOT'
-main: org.item.ItemJsonhoverEvent
-api-version: 1.19
-authors: [ minding2796 ]
